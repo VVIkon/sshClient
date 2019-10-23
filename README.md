@@ -1,2 +1,2 @@
 # sshClient
-ssh Client for Node
+ssh Client for Node (console command)
