@@ -1,0 +1,26 @@
+{
+  "name": "sshclient",
+  "version": "1.0.0",
+  "description": "Node ssh client",
+  "main": "ssh",
+  "scripts": {
+    "test": "ssh client@domen.ru"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VVIkon/sshClient.git"
+  },
+  "keywords": [
+    "lhligjytreytrsdhgvbl-8766"
+  ],
+  "author": "VI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VVIkon/sshClient/issues"
+  },
+  "homepage": "https://github.com/VVIkon/sshClient#readme",
+  "dependencies": {
+    "@types/node": "^12.11.5",
+    "crypto": "^1.0.1"
+  }
+}
